@@ -32,7 +32,7 @@
     "@angular/language-service": "^7.2.0",
     "typescript": "3.2.2",
     "@angular-devkit/build-angular": "~0.12.0"
-  }
+  },
   "publishConfig": {
     "registry": "http://192.168.1.40:8081/repository/acheron-npm-private/"
   }
